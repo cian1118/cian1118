@@ -1,10 +1,8 @@
-# Welcome to my GitHub profile! 👋
+# Hi! I'm Cian 👋
 
-# Hi! I'm **Cian**, a passionate **AI & Machine Learning Engineer**
+### AI & Machine Learning Engineer
 
-Currently completing my MSc in Advanced Artificial Intelligence in University College Dublin.
-
-BA (Mod) Computer Science and German, Trinity College Dublin.
+I'm a passionate AI/ML engineer currently completing my **MSc in Advanced Artificial Intelligence** at University College Dublin. I hold a **BA (Mod) in Computer Science and German** from Trinity College Dublin.
 
 Available for full-time roles from May 2026.
 
@@ -54,6 +52,24 @@ Feel free to reach out if you'd like to discuss opportunities, collaborations, o
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FAbdullah17&show_icons=true&locale=en" alt="FAbdullah17" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FAbdullah17&" alt="FAbdullah17" /></p> -->
+---
+
+## 💼 Work experience
+
+### **Senior Technology Consultant** @ Deloitte
+*September 2021 - August 2025 | Dublin*
+
+- Developed and deployed automation and .NET solutions reducing manual processing time by up to 60%.
+- Delivered complex healthcare technology projects under strict compliance and data-protection standards.
+- Technologies: VB, C#, SQL, UiPath, AWS
+
+### **Quality & Business Strategy Intern** @ Pfizer
+*May - August 2019 | Dublin*
+
+- Rotated across the business strategy, IT, and quality departments.
+- Trained in good manufacturing practice (GMP) and data integrity.
+
+---
 
 ## 🌱 Current goals
 - Build and deploy more personal AI projects.
