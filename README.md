@@ -1,16 +1,17 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to my GitHub profile! 👋
 
-# Hi there! I'm **Cian**, a passionate **AI & Machine Learning Engineer** 👨‍💻. 
+# Hi! I'm **Cian**, a passionate **AI & Machine Learning Engineer**
 
 Currently completing my MSc in Advanced Artificial Intelligence in University College Dublin.
+
 BA (Mod) Computer Science and German, Trinity College Dublin.
 
 Available for full-time roles from May 2026.
 
 ---
 
-## 🔧 Skills & Technologies
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, Keras
+## 🔧 Skills & technologies
+- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn
 - **Computer Vision:** OpenCV, MediaPipe
 - **Natural Language Processing (NLP):** NLTK, SpaCy, Hugging Face
 - **Programming Languages:** Python, Java, JavaScript, C#, SQL
@@ -18,11 +19,13 @@ Available for full-time roles from May 2026.
 - **Web Development:** HTML, CSS, JavaScript
 - **Cloud & Deployment:** AWS, GCP
 - **MLOps:** CI/CD pipelines, Model Deployment, Model Evaluation & Tuning
+- **Linguistics:** Syntax, Semantics, Phonetics, Speech Science, Computational Linguistics
 - **Languages:** English (fluent), German (proficient)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's connect!
+Feel free to reach out if you'd like to discuss opportunities, collaborations, or anything else:
 - **Email:** cian.higgins1@ucdconnect.ie
   
 <h3 align="left">Connect with me:</h3>
@@ -30,10 +33,10 @@ Available for full-time roles from May 2026.
 <a href="https://www.linkedin.com/in/cian-higgins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cian Higgins" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and tools:</h3> -->
 <!-- <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -52,20 +55,20 @@ Available for full-time roles from May 2026.
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FAbdullah17&" alt="FAbdullah17" /></p> -->
 
-## 🌱 Current Goals
-- Build and deploy more machine learning models.
-- Continue learning about natural language processing (NLP) and deep learning architectures.
-- Continue and enhance my journey in GenAI and LLMs.
+## 🌱 Current goals
+- Build and deploy more personal AI projects.
+- Improve my skills and earn certifications in deployment tools.
 - Contribute to open-source AI projects and share knowledge with the community.
 
 ---
 
-### 📅 Fun Fact:
-In my spare time, I enjoy learning new programming languages, staying active with fitness, and exploring new tech trends. 🚀
+### ⚡ Fun facts
+
+I enjoy spending time outdoors and love reading Greek and Celtic mythology. I also like keeping up to date with economics, politics, and tech trends.
 
 ---
 
-#### Thanks for visiting my GitHub profile! 🚀
+#### Thanks for visiting my GitHub profile!
 <!--
 **cian1118/cian1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
