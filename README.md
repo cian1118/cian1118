@@ -18,7 +18,7 @@ Available for full-time roles from May 2026.
 - **Cloud & Deployment:** AWS, GCP
 - **MLOps:** CI/CD pipelines, Model Deployment, Model Evaluation & Tuning
 - **Linguistics:** Syntax, Semantics, Phonetics, Speech Science, Computational Linguistics
-- **Languages:** English (fluent), German (proficient)
+- **Languages:** English (C2: native), German (C1: advanced), Irish (B2: intermediate)
 
 ---
 
