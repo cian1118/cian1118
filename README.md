@@ -14,8 +14,8 @@ Available for full-time roles from May 2026.
 - **Natural Language Processing (NLP):** NLTK, SpaCy, Hugging Face
 - **Programming Languages:** Python, Java, JavaScript, C#, SQL
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-- **Web Development:** HTML, CSS, JavaScript
-- **Cloud & Deployment:** AWS, GCP
+- **Frontend:** HTML, CSS, JavaScript, REST APIs
+- **Cloud & Deployment:** AWS, GCP, Docker
 - **MLOps:** CI/CD pipelines, Model Deployment, Model Evaluation & Tuning
 - **Linguistics:** Syntax, Semantics, Phonetics, Speech Science, Computational Linguistics
 - **Languages:** English (C2: native), German (C1: advanced), Irish (B2: intermediate)
