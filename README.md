@@ -80,7 +80,7 @@ Feel free to reach out if you'd like to discuss opportunities, collaborations, o
 
 ### ⚡ Fun facts
 
-I enjoy spending time outdoors and love reading Greek and Celtic mythology. I also like keeping up to date with economics, politics, and tech trends.
+I enjoy reading Greek and Celtic mythology. I also like keeping up to date with economics, politics, and tech trends.
 
 ---
 
