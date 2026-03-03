@@ -2,7 +2,7 @@
 
 ### AI & Machine Learning Engineer
 
-I'm a passionate AI/ML engineer currently completing my **MSc in Advanced Artificial Intelligence** at University College Dublin. I hold a **BA (Mod) in Computer Science and German** from Trinity College Dublin.
+AI/ML engineer currently completing my **MSc in Advanced Artificial Intelligence** at University College Dublin. I hold a **BA (Mod) in Computer Science and German** from Trinity College Dublin.
 
 Available for full-time roles from May 2026.
 
