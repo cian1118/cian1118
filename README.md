@@ -76,15 +76,7 @@ Feel free to reach out if you'd like to discuss opportunities, collaborations, o
 - Improve my skills and earn certifications in deployment tools.
 - Contribute to open-source AI projects and share knowledge with the community.
 
----
 
-### ⚡ Fun facts
-
-I enjoy reading Greek and Celtic mythology. I also like keeping up to date with economics, politics, and tech trends.
-
----
-
-#### Thanks for visiting my GitHub profile!
 <!--
 **cian1118/cian1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
